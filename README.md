@@ -35,6 +35,26 @@ It is built using **Flask** and deployed on the cloud, enabling **real-time pred
 
 ## 🖼️ Demo Preview
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asishmohantychandan/boston_house_pricing/main/assets/Screenshot.png" width="80%">
+</p>
 
-```markdown
-![App Screenshot](https://raw.githubusercontent.com/asishmohantychandan/boston_house_pricing/main/assets/Screenshot.png)
+<p align="center">
+  <b>Real-time Boston House Price Prediction Web App</b>
+</p>
+
+---
+
+## ⚙️ Software And Tools Requirements
+
+1. [Github Account](https://github.com)  
+2. [HerokuAccount](https://heroku.com)  
+3. [VSCodeIDE](https://code.visualstudio.com/)  
+4. [GitCLI](https://git-scm.com)  
+
+---
+
+## 🧪 Create a new environment
+
+```bash
+conda create -p venv python==3.7 -y
