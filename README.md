@@ -37,4 +37,4 @@ It is built using **Flask** and deployed on the cloud, enabling **real-time pred
 
 
 ```markdown
-![App Screenshot](Screenshot.png)
+![App Screenshot](assets/Screenshot.png)
