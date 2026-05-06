@@ -1,27 +1,41 @@
-# Boston House Pricing Prediction
+# 🏡 Boston House Pricing Prediction
 
-🚀 **Live Demo:**  
-👉 https://boston-house-pricing-4zdk.onrender.com
+![Python](https://img.shields.io/badge/Python-3.7-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black)
+![ML](https://img.shields.io/badge/Machine-Learning-green)
+![Deployment](https://img.shields.io/badge/Deployed-Render-purple)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+---
+
+## 🚀 Live Demo
+
+👉 **Try the app here:**  
+🔗 https://boston-house-pricing-4zdk.onrender.com
 
 ---
 
 ## 📌 Project Overview
-This project is a Machine Learning web application built using Flask that predicts Boston house prices based on user input features.
 
-The application is deployed on the cloud and provides **real-time predictions** via a simple web interface.
+This project is an **end-to-end Machine Learning web application** that predicts Boston house prices based on user-provided features.
 
----
-
-## 🛠️ Software And Tools Requirements
-
-1. [Github Account](https://github.com)  
-2. [HerokuAccount](https://heroku.com)  
-3. [VSCodeIDE](https://code.visualstudio.com/)  
-4. [GitCLI](https://git-scm.com)  
+It is built using **Flask** and deployed on the cloud, enabling **real-time predictions through a public web interface**.
 
 ---
 
-## ⚙️ Create a new environment
+## 🎯 Features
 
-```bash
-conda create -p venv python==3.7 -y
+- 📊 Predict house prices using trained ML model  
+- 🌐 Fully deployed web application  
+- ⚡ Real-time prediction  
+- 🧾 Clean and interactive UI  
+- 🔌 Backend API integration  
+
+---
+
+## 🖼️ Demo Preview
+
+> ⚠️ Add your GIF or screenshot below (very important for impact)
+
+```markdown
+![App Demo](demo.gif)
