@@ -36,7 +36,7 @@ It is built using **Flask** and deployed on the cloud, enabling **real-time pred
 ## 🖼️ Demo Preview
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/asishmohantychandan/boston_house_pricing/main/assets/Screenshot.png" width="80%">
+  <img src="https://raw.githubusercontent.com/asishmohantychandan/boston_house_pricing/main/assets/Screenshot.png" width="100%">
 </p>
 
 <p align="left">
