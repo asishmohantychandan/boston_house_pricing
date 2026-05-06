@@ -38,4 +38,4 @@ It is built using **Flask** and deployed on the cloud, enabling **real-time pred
 > ⚠️ Add your GIF or screenshot below (very important for impact)
 
 ```markdown
-![App Demo](demo.gif)
+![App Demo](Screenshot.png)
