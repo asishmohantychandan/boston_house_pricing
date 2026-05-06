@@ -37,4 +37,4 @@ It is built using **Flask** and deployed on the cloud, enabling **real-time pred
 
 
 ```markdown
-![App Screenshot](https://github.com/asishmohantychandan/boston_house_pricing/blob/main/assets/Screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/asishmohantychandan/boston_house_pricing/main/assets/Screenshot.png)
